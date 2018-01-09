@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Barrel
+  - Enemy
+  - SpringBoard
+  - Chain
+  - Death
+  - Undefined
+  - GridTile
+  - SelectedGridTile
+  - GridBorder
+  - Grass
+  - Dirt
+  - Stone
+  - SelectedTile
+  - Empty
+  - Nothing
+  - PlayerSpawn
+  - EnemySpawn
+  - Exit
+  - Spike
+  - Rope
+  - RopCol
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Grid
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Grid
+    uniqueID: 980559243
+    locked: 0

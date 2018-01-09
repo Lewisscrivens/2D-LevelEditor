@@ -1,0 +1,19 @@
+:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 224119782466325944, guid: 17fa5bf9bb40ceb4993c5f37570e1bb7,
+    type: 2}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 436786510}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1.0000799, y: 1.0000799, z: 1.0000799}
+  m_Children:
+  - {fileID: 984282169}
+  m_Father: {fileID: 1351828017}
+  m_RootOrder: 8
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 156, y: -24}
+  m_SizeDelta: {x: 35, y: 35}
+  m_

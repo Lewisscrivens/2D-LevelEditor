@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 0e2dcc1c8f7010e4da33f7101f5f2e1f
+timeCreated: 1512391829
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - gridLineMat: {fileID: 2100000, guid: 4aa5cc4443eee5f47a6a701980d28e90, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
