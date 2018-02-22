@@ -23,6 +23,15 @@ Known bugs:
 
 ---------------------------------------------
 
+Refferences:
+
+Textures for sprites:
+
+- All of the level sprites came from the following link: https://opengameart.org/content/platformer-art-complete-pack-often-updated
+- The UI sprites cam from the following link: https://www.gameart2d.com/free-fantasy-game-gui.html
+
+---------------------------------------------
+
 The code has been commented as it was required on submission for this assignment.
 
 This project was made on Unity 5.6.1f.
