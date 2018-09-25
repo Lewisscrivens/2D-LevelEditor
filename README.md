@@ -1,6 +1,6 @@
 # 2DLevelEditor
 
-A Unity project created for my Assignment in Computer Games Studio 2 at The University of Huddersfield.
+A Unity project created for my first Assignment in Computer Games Studio 2 at The University of Huddersfield. Year 1.
 
 ---------------------------------------------
 
