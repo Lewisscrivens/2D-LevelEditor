@@ -15,6 +15,14 @@ Level editor features:
 - Simple enemy objects.
 - Placeholder main menu.
 
+What I Learnt:
+
+- How to create a modular editor.
+- How to handle functionality between tools in the editor.
+- Saving files for reconstructing current levels.
+- Loading those files and reconstructing levels.
+- User interface techniques.
+
 ---------------------------------------------
 
 Known bugs:
