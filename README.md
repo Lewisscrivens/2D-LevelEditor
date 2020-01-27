@@ -1,4 +1,4 @@
-# 2DLevelEditor
+# 2DLevelEditor - First Year
 
 A Unity project created for my first Assignment in Computer Games Studio 2 at The University of Huddersfield. Year 1.
 
